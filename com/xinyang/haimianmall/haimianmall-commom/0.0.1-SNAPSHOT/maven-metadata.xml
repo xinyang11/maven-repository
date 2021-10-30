@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.xinyang.haimianmall</groupId>
+  <artifactId>haimianmall-commom</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20211030.121709</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20211030121709</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20211030.121709-4</value>
+        <updated>20211030121709</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20211030.121709-4</value>
+        <updated>20211030121709</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
